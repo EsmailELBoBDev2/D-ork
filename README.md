@@ -1,2 +1,3 @@
-# D-ork
-A zork-like game
+# WTF Is Dork ?
+
+## You Will Know Soon (*Not Very Soon Tho*!)
